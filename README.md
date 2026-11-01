@@ -86,9 +86,8 @@ A two-page Power BI dashboard built from the cleaned data.
 
 Add your screenshots to the `images/` folder and they will show here:
 
-![Delivery Performance](images/page1_delivery_performance.png)
-![Sales and Profitability](images/page2_sales_profitability.png)
-
+![Delivery Performance](images/Page%201.png)
+![Sales and Profitability](images/Page%202.png)
 ---
 
 ## Dataset
