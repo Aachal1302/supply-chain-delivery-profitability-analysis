@@ -164,18 +164,17 @@ Profit margin is calculated as total profit divided by total sales, and "sales" 
 
 ---
 
-## Repository Structure
+## Dashboard
 
-```
-supply-chain-delivery-profitability-analysis/
-├── data/
-│   ├── raw/        original dataset (.gz)
-│   └── cleaned/    cleaned dataset exported from SQL (.zip)
-├── sql/            Supply_Chain_Analysis.sql (cleaning and analysis queries)
-├── dashboard/      Supply_Chain_Analysis_Dashboard.pbix
-├── images/         dashboard screenshots
-└── README.md
-```
+A two-page interactive Power BI dashboard built from the cleaned data.
+
+### Page 1 – Delivery Performance
+
+![Delivery Performance](delivery-performance.png)
+
+### Page 2 – Sales & Profitability
+
+![Sales & Profitability](sales-profitability.png)
 
 ## How to Reproduce
 
