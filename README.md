@@ -92,15 +92,11 @@ A two-page interactive Power BI dashboard built from the cleaned data.
 
 ### Page 1 – Delivery Performance
 
-[![Delivery Performance](images/delivery-performance.png)](images/delivery-performance.png)
-
-[View Delivery Performance Dashboard](images/delivery-performance.png)
+![Delivery Performance](./images/delivery-performance.png)
 
 ### Page 2 – Sales & Profitability
 
-[![Sales & Profitability](images/sales-profitability.png)](images/sales-profitability.png)
-
-[View Sales & Profitability Dashboard](images/sales-profitability.png)
+![Sales & Profitability](./images/sales-profitability.png)
 ---
 
 ## Dataset
