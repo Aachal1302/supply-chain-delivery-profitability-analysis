@@ -150,16 +150,6 @@ Profit margin is calculated as total profit divided by total sales, and "sales" 
 
 ## Repository Structure
 
-```text
-supply-chain-delivery-profitability-analysis/
-├── data/
-│   ├── raw/        original dataset (.gz)
-│   └── cleaned/    cleaned dataset exported from SQL (.zip)
-├── sql/            Supply_Chain_Analysis.sql (cleaning and analysis queries)
-├── dashboard/      Supply_Chain_Analysis_Dashboard.pbix
-├── images/         dashboard screenshots
-└── README.md
-```
 
 ## How to Reproduce
 
