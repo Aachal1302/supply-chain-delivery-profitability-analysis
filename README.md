@@ -86,8 +86,21 @@ A two-page Power BI dashboard built from the cleaned data.
 
 Add your screenshots to the `images/` folder and they will show here:
 
-![Delivery Performance](images/Page%201.png)
-![Sales and Profitability](images/Page%202.png)
+## Dashboard
+
+A two-page interactive Power BI dashboard built from the cleaned data.
+
+### Page 1 – Delivery Performance
+
+[![Delivery Performance](images/delivery-performance.png)](images/delivery-performance.png)
+
+[View Delivery Performance Dashboard](images/delivery-performance.png)
+
+### Page 2 – Sales & Profitability
+
+[![Sales & Profitability](images/sales-profitability.png)](images/sales-profitability.png)
+
+[View Sales & Profitability Dashboard](images/sales-profitability.png)
 ---
 
 ## Dataset
